@@ -1,6 +1,6 @@
 {
     'name': 'Stock Valuation Account Adjustment',
-    'version': '16.0.1.0.0',
+    'version': '18.0.1.0.0',
     'category': 'Inventory/Inventory',
     'summary': 'Adds specific account for manual standard price adjustments',
     'depends': ['stock_account'],
